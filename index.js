@@ -172,30 +172,6 @@ function verCarrito() {
         })
     }
 
-
-    // contenedor.appendChild(mostrarTotal);
-
-    // const mostarTotalEnCuotas = document.createElement("div");
-
-    // contenedor.appendChild(mostarTotalEnCuotas);
-
-    // botonSacarEnCuotas("button3Cuotas", "PAGAR EN 3 CUOTAS", total, mostarTotalEnCuotas, 3);
-
-    // botonSacarEnCuotas("button6Cuotas", "PAGAR EN 6 CUOTAS", total, mostarTotalEnCuotas, 6);
-
-    // botonSacarEnCuotas("button9Cuotas", "PAGAR EN 9 CUOTAS", total, mostarTotalEnCuotas, 9);
-
-    // botonSacarEnCuotas("button12Cuotas", "PAGAR EN 12 CUOTAS", total, mostarTotalEnCuotas, 12);
-
-
-
-    // const buttonLimpiarCarrito = botonesParaElCarrito("buttonLimpiarCarrito", "Limpiar Carrito");
-
-    // buttonLimpiarCarrito.addEventListener("click", () => {
-    //     carrito.splice(0);
-    //     localStorage.setItem("carrito", JSON.stringify(carrito))
-    //     verCarrito()
-    // })
 }
 
 
